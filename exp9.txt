@@ -1,2 +1,6 @@
 Hello world
+<<<<<<< HEAD
 Changes made in master branch
+=======
+Changes made in Experiment9 branch
+>>>>>>> Experiment9
